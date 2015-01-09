@@ -1,0 +1,22 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "data analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2"
+  },
+  "keywords": [
+    "okii",
+    "bigdata"
+  ],
+  "author": "jiehwa",
+  "license": "okii.com",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
